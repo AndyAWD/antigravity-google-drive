@@ -1,0 +1,11 @@
+{
+  "name": "antigravity-google-drive",
+  "displayName": "Google Drive Integration",
+  "version": "0.1.0",
+  "description": "Google Drive 雲端硬碟整合外掛程式，透過 Google Cloud 服務帳戶唯讀存取指定共用資料夾，支援搜尋、目錄瀏覽與自動將 Google 文件轉換為 Markdown/純文字檢視。",
+  "suggestedPrompts": [
+    "請搜尋 Google 雲端硬碟中的相關檔案",
+    "列出 Google 雲端硬碟共用資料夾內的所有檔案與目錄",
+    "讀取並摘要 Google 雲端硬碟中的指定文件內容"
+  ]
+}

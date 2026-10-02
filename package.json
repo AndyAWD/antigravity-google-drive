@@ -1,0 +1,17 @@
+{
+  "name": "antigravity-google-drive",
+  "version": "0.1.0",
+  "description": "Antigravity plugin for Google Drive integration: search, browse, and read files from Google Drive folders shared with a Service Account.",
+  "type": "module",
+  "main": "server/index.mjs",
+  "bin": {
+    "antigravity-google-drive": "server/index.mjs"
+  },
+  "scripts": {
+    "start": "node server/index.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "googleapis": "^144.0.0"
+  }
+}

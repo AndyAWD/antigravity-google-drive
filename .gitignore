@@ -1,0 +1,24 @@
+# Credentials and secrets (NEVER commit to Git)
+credentials.json
+*.key.json
+*.json.key
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
